@@ -9,4 +9,7 @@ https://waffle.io/eguahlak/code-academy-lsd/join
 Go Webserver:
 https://github.com/eguahlak/gowebserver.git
 
-Anders
+* Anders
+* Caroline
+* Tue
+* Thomas
